@@ -1,2 +1,2 @@
-# This is my project repository 
+# This is my python project repository 
 #Author:Atishay Jain
