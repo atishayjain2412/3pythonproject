@@ -1,2 +1,6 @@
-# This is my python project repository 
-#Author:Atishay Jain
+# 3pythonproject
+This is my first project of python on github repository
+<br>
+Author:Atishay Jain(legend)
+
+
